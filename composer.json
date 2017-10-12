@@ -1,0 +1,11 @@
+{
+    "name": "brianlangevin/country-code-converters",
+    "description": "A PHP library for converting between ISO 3166 country and state codes and names",
+    "license": "MIT",
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {"BrianLangevin\\CountryCodeConverters\\": "src/"}
+    }
+}
